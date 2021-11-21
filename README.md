@@ -1,2 +1,2 @@
 # Docker_LAMP_Example
-Containerised website using docker (LAMP)
+Containerised LAMP website using docker
